@@ -1,5 +1,7 @@
-1.git rm --cache(cached) <file> remove paths from index 
-2.git branch 
+1.git rm --cache(cached) <file> remove path from index 
 3.git checkout -b newbranch create a new branch and switch to it 
 4.git rm -f <filename> force remove a file from index and remote 
-
+5.git mergetool 
+5.git diff    to see what you've changed but not yet staged 
+6.git diff --cached compares your staged changes to your last commit 
+7.ad 8 ?
