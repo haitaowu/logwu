@@ -1,0 +1,4 @@
+1.git rm --cache(cached) <file> remove paths from index 
+2.git branch 
+3.git checkout -b newbranch create a new branch and switch to it 
+4.git 
