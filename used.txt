@@ -1,4 +1,5 @@
 1.git rm --cache(cached) <file> remove paths from index 
 2.git branch 
 3.git checkout -b newbranch create a new branch and switch to it 
-4.git 
+4.git rm -f <filename> force remove a file from index and remote 
+
