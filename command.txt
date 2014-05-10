@@ -1,0 +1,6 @@
+git config --local -e 
+git config --list 
+git config --global user.name "name" 
+git config --global user.email "youEmail" 
+
+git remote -v
