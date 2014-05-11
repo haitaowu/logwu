@@ -4,4 +4,5 @@
 5.git mergetool 
 5.git diff    to see what you've changed but not yet staged 
 6.git diff --cached compares your staged changes to your last commit 
-7.ad 8 ?
+7.git reset --merge to cancel a conflicting merge .
+8.git branch --set-upstream-to <origin/branchname>
