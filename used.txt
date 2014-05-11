@@ -10,4 +10,4 @@
 10.git branch -r
 11.git branch <branchname> create a new branch 
 12.git checkout -b <branchname> create a new branch and switch to the new branch
-13.
+13.git merge <targetbranchname> merge targetbranch into your current branch 
