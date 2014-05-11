@@ -6,3 +6,4 @@
 6.git diff --cached compares your staged changes to your last commit 
 7.git reset --merge to cancel a conflicting merge .
 8.git branch --set-upstream-to <origin/branchname>
+9.git commit -a -m "commit message" Skipping the staging area 
