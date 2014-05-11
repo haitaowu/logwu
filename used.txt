@@ -7,3 +7,8 @@
 7.git reset --merge to cancel a conflicting merge .
 8.git branch --set-upstream-to <origin/branchname>
 9.git commit -a -m "commit message" Skipping the staging area 
+10.git branch -a 
+11.git branch -r
+12.git branch <branchname> create a new branch 
+13.git checkout -b <branchname> create a new branch and switch to the new branch
+14.git merge <targetbranchname> merge targetbranch into your current branch 
