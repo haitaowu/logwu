@@ -2,6 +2,6 @@
 3.git checkout -b newbranch create a new branch and switch to it 
 4.git rm -f <filename> force remove a file from index and remote 
 5.git mergetool 
-5.git diff    to see what you've changed but not yet staged 
-6.git diff --cached compares your staged changes to your last commit 
-7.ad 8 ?
+6.git diff    to see what you've changed but not yet staged 
+7.git diff --cached(--staged) compares your staged changes to your last commit 
+8.git commit -a -m Skipping the Staging Area ,git automatically stage every filethat is already tracked before doing commit ,letting you skip the git add part
