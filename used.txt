@@ -1,4 +1,5 @@
 1.git rm --cache(cached) <file> remove path from index 
+2.git merge <targetbranchname> merge targetbranch into your current branch 
 3.git checkout -b newbranch create a new branch and switch to it 
 4.git rm -f <filename> force remove a file from index and remote 
 5.git mergetool 
@@ -10,4 +11,5 @@
 10.git branch -r
 11.git branch <branchname> create a new branch 
 12.git checkout -b <branchname> create a new branch and switch to the new branch
-8.git commit -a -m Skipping the Staging Area ,git automatically stage every filethat is already tracked before doing commit ,letting you skip the git add part
+13.git commit -a -m Skipping the Staging Area ,git automatically stage every filethat is already tracked before doing commit ,letting you skip the git add part
+
