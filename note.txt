@@ -1,0 +1,2 @@
+git version 1.9.2.msysgit.0
+how to pull branch from remote on diff pc 
