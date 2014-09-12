@@ -6,3 +6,9 @@
 6.git diff --cached compares your staged changes to your last commit 
 7.git reset --merge to cancel a conflicting merge .
 8.git branch --set-upstream-to <origin/branchname>
+9.git commit -a -m "commit message" Skipping the staging area (onlytracked file)
+10.git branch -a 
+11.git branch -r
+12.git branch <branchname> create a new branch 
+13.git merge <targetbranchname> merge targetbranch into your current branch 
+14.git checkout -b <localbranchname> <romtebranchname> (get this romtebranchname by use git branch -r command)
